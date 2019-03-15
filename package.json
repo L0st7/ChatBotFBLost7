@@ -1,13 +1,20 @@
 {
-  "name": "chatbot",
+  "name": "chatbotfblost7",
   "version": "1.0.0",
-  "description": "",
+  "description": "ChatBot message by Lost7",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L0st7/ChatBotFBLost7.git"
+  },
   "author": "Lost7",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L0st7/ChatBotFBLost7/issues"
+  },
   "dependencies": {
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
@@ -17,5 +24,6 @@
     "dialogflow": "0.6.0",
     "facebook-chat-api": "^1.6.1",
     "node-env-file": "0.1.8"
-  }
+  },
+  "homepage": "https://github.com/L0st7/ChatBotFBLost7#readme"
 }
