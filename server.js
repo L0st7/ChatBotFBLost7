@@ -38,7 +38,7 @@ fbApi(credientials, (err, api) => {
         api.sendMessage(result.fulfillmentText, message.threadID);
       })
       .catch((error) => {
-        //api.sendMessage(`Opps! Error`,message.threadID);
+        //api.sendMessage(message.body,message.threadID);
           api.sendMessage(`Error: ${error}`, message.threadID);
       });
   });

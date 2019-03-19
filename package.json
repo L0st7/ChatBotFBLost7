@@ -22,7 +22,7 @@
     "babel-preset-stage-2": "6.24.1",
     "babel-register": "6.26.0",
     "dialogflow": "0.6.0",
-    "facebook-chat-api": "^1.6.1",
+    "facebook-chat-api": "1.6.1",
     "node-env-file": "0.1.8"
   },
   "homepage": "https://github.com/L0st7/ChatBotFBLost7#readme"
